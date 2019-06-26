@@ -1,0 +1,16 @@
+{
+  "name": "siraj_tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^5.9.2",
+    "dimple-js": "^2.1.4",
+    "express": "^4.17.1"
+  }
+}
