@@ -11,6 +11,6 @@
   "dependencies": {
     "d3": "^5.9.2",
     "dimple-js": "^2.1.4",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
